@@ -24,7 +24,7 @@
 >**일정표는 머메이드로 작성**
 ```mermaid
 gantt
-    title @@@ 개발 세부화
+    title **@@@ 개발 세부화**
     dateFormat    YYYY-MM-DD
 
     section 계획 단계
