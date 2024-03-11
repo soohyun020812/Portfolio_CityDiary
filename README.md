@@ -70,10 +70,16 @@ gantt
 ```
 
 ### 📏 와이어프레임
-|메인 페이지|||
-|![24 03 07 장고프로젝트 와이어프레임  메인페이지](https://github.com/soohyun020812/Portfolio_/assets/131852352/bbf5e7e8-3755-462c-b77d-03063846063e)|
-|읽기 페이지|
-![24 03 07 장고프로젝트 와이어프레임  읽기페이지](https://github.com/soohyun020812/Portfolio_/assets/131852352/11e701b2-acb8-4cf2-984c-211eae894d59)|
+>**메인 페이지**
+![24 03 07 장고프로젝트 와이어프레임  메인페이지](https://github.com/soohyun020812/Portfolio_/assets/131852352/bbf5e7e8-3755-462c-b77d-03063846063e)
+>**읽기 페이지**
+![24 03 07 장고프로젝트 와이어프레임  읽기페이지](https://github.com/soohyun020812/Portfolio_/assets/131852352/11e701b2-acb8-4cf2-984c-211eae894d59)
+>**등록 / 수정 페이지**
+![24 03 07 장고프로젝트 와이어프레임  등록과 수정페이지](https://github.com/soohyun020812/Portfolio_/assets/131852352/c90ed05a-f551-4c5c-aa12-e07728e28f99)
+>**로그인 / 회원가입 페이지**
+![24 03 07 장고프로젝트 와이어프레임  로그인과 회원가입](https://github.com/soohyun020812/Portfolio_/assets/131852352/770232ed-0c64-4fa2-a4c1-2c8f043ae0aa)
+>**로그인 / 회원가입 실패 시 페이지**
+![24 03 07 장고프로젝트 와이어프레임  로그인과 회원가입 실패](https://github.com/soohyun020812/Portfolio_/assets/131852352/a9484020-0fe2-4ae8-93bd-a111c50c7f56)
 
 ### 👤 사용자
 
