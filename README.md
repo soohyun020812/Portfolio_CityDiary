@@ -1,4 +1,6 @@
-# Portfolio_CityDiary
+# 도시일기, CityDiary
+>**CityDiary는 도시에서의 다양한 경험을 담아 일기를 쓰고 공유하는 블로그 플랫폼입니다.** <br>
+>**사용자들이 자신만의 도시 이야기를 공유하여 더욱 풍부하고 흥미로운 도시 생활을 만들어냅니다.**
 
 ### 💻 프로젝트 소개
 >**Django Project** <br>
@@ -17,10 +19,8 @@
 ### ⚙ 개발 환경
 >**IDE : Visual Studio Code** <br>
 >**Web Framework : Django 5.0.2** <br>
->**배포 URL : **
 
 ### 🚩 프로젝트 목표
->****
 
 ### 📌 기능
 >**회원가입** <br>
